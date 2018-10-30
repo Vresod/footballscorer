@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto|Roboto+Condensed|Roboto+Mono|Roboto+Slab');
+
+p {
+	font-family: 'Roboto', sans-serif;
+}
+
+.container {
+	display: flex;
+	justify-content: space-around;
+}
+
+.container < div < button {
+	flex-direction: row;
+}
