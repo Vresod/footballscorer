@@ -9,6 +9,6 @@ p {
 	justify-content: space-around;
 }
 
-.container < div < button {
-	flex-direction: row;
+div < button {
+	flex-direction: column;
 }
