@@ -12,3 +12,7 @@ p {
 div < button {
 	flex-direction: column;
 }
+
+@media mobile {
+
+}
